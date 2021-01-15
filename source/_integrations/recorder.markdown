@@ -9,7 +9,7 @@ ha_domain: recorder
 ha_iot_class: Local Push
 ---
 
-The `recorder` integration is responsible for storing details in a database, which then are handled by the [`history` ](/integrations/history/) integration.
+The `recorder` integration is responsible for storing details <-- I have no clue what a detail this could be ... this makes the rest of the article useless for me  in a database, which then are handled by the [`history` ](/integrations/history/) integration.
 
 <div class='note'>
 
